@@ -14,44 +14,44 @@
 
 #### Conhecendo o JavaScript:
 
-- [ ] Aula A.1 – O que o JavaScript é capaz de fazer?
+- [ ] 1.1 – O que o JavaScript é capaz de fazer?
 
-- [ ] Aula A.2 – Como chegamos até aqui?
+- [ ] 1.2 – Como chegamos até aqui?
 
-- [ ] Aula A.3 – Dando os primeiros passos
+- [ ] 1.3 – Dando os primeiros passos
 
-- [ ] Aula A.4 – Criando o seu primeiro script
+- [ ] 1.4 – Criando o seu primeiro script
 
 
 ## Módulo 2:
 
 #### Comandos Básicos do JavaScript:
 
-- [ ] Aula B.5 – Variáveis e Tipos Primitivos
+- [ ] 2.5 – Variáveis e Tipos Primitivos
 
-- [ ] Aula B.6 – Tratamento de dados
+- [ ] 2.6 – Tratamento de dados
 
-- [ ] Aula B.7 – Operadores (Parte 1)
+- [ ] 2.7 – Operadores (Parte 1)
 
-- [ ] Aula B.8 – Operadores (Parte 2)
+- [ ] 2.8 – Operadores (Parte 2)
 
 
 ## Módulo 3:
 
 #### Entendendo o DOM:
 
-- [ ] Aula C.9 – Introdução ao DOM
+- [ ] 3.9 – Introdução ao DOM
 
-- [ ] Aula C.10 – Eventos DOM
+- [ ] 3.10 – Eventos DOM
 
 
 ## Módulo 4:
 
 #### Condições em JavaScript
 
-- [ ] Aula D.11 – Condições (Parte 1)
+- [ ] 4.11 – Condições (Parte 1)
 
-- [ ] Aula D.12 – Condições (Parte 2)
+- [ ] 4.12 – Condições (Parte 2)
 
 - [ ] Exercícios JavaScript (Parte 1)
 
@@ -64,9 +64,9 @@
 
 #### Repetições em JavaScript
 
-- [ ] Aula E.13 – Repetições (Parte 1)
+- [ ] 5.13 – Repetições (Parte 1)
 
-- [ ] Aula E.14 – Repetições (Parte 2)
+- [ ] 5.14 – Repetições (Parte 2)
 
 - [ ] Exercícios JavaScript (Parte 4)
 
@@ -79,12 +79,12 @@
 
 #### Avançando os estudos em JavaScript
 
-- [ ] Aula F.15 – Variáveis Compostas
+- [ ] 6.15 – Variáveis Compostas
 
-- [ ] Aula F.16 – Funções
+- [ ] 6.16 – Funções
 
 - [ ] Exercícios JavaScript (Parte 7)
 
 - [ ] Exercícios JavaScript (Parte 8)
 
-- [ ] Aula F.17 – Próximos Passos
+- [ ] 6.17 – Próximos Passos
