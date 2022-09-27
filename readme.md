@@ -5,13 +5,14 @@
 
 ## Módulo 0: 
 
-### Introdução ao Curso:
+#### Introdução ao Curso:
 
 - [ ] Introdução – JavaScript Moderno
 
-## Módulo A: 
 
-### Conhecendo o JavaScript:
+## Módulo 1: 
+
+#### Conhecendo o JavaScript:
 
 - [ ] Aula A.1 – O que o JavaScript é capaz de fazer?
 
@@ -21,9 +22,10 @@
 
 - [ ] Aula A.4 – Criando o seu primeiro script
 
-## Módulo B:
 
-### Comandos Básicos do JavaScript:
+## Módulo 2:
+
+#### Comandos Básicos do JavaScript:
 
 - [ ] Aula B.5 – Variáveis e Tipos Primitivos
 
@@ -33,17 +35,19 @@
 
 - [ ] Aula B.8 – Operadores (Parte 2)
 
-## Módulo C:
 
-### Entendendo o DOM:
+## Módulo 3:
+
+#### Entendendo o DOM:
 
 - [ ] Aula C.9 – Introdução ao DOM
 
 - [ ] Aula C.10 – Eventos DOM
 
-## Módulo D:
 
-### Condições em JavaScript
+## Módulo 4:
+
+#### Condições em JavaScript
 
 - [ ] Aula D.11 – Condições (Parte 1)
 
@@ -55,9 +59,10 @@
 
 - [ ] Exercícios JavaScript (Parte 3)
 
-## Módulo E:
 
-### Repetições em JavaScript
+## Módulo 5:
+
+#### Repetições em JavaScript
 
 - [ ] Aula E.13 – Repetições (Parte 1)
 
@@ -69,9 +74,10 @@
 
 - [ ] Exercícios JavaScript (Parte 6)
 
-## Módulo F:
 
-### Avançando os estudos em JavaScript
+## Módulo 6:
+
+#### Avançando os estudos em JavaScript
 
 - [ ] Aula F.15 – Variáveis Compostas
 
