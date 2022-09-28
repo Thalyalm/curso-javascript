@@ -1,8 +1,6 @@
 # Curso JavaScript
 
-Projeto criado no curso de JavaScript no [Curso em Vídeo](https://www.cursoemvideo.com/) 
-
-Com [Gustavo Guanabara](https://github.com/gustavoguanabara).
+Projeto criado no curso de JavaScript no [Curso em Vídeo](https://www.cursoemvideo.com/) com [Gustavo Guanabara](https://github.com/gustavoguanabara).
 
 ---
 
