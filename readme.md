@@ -79,3 +79,5 @@ Projeto criado no curso de JavaScript no [Curso em Vídeo](https://www.cursoemvi
 - [ ] Exercícios JavaScript (Parte 7)
 - [ ] Exercícios JavaScript (Parte 8)
 - [ ] Aula 6.17 – Próximos Passos
+
+---
