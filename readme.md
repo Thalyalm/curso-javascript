@@ -9,6 +9,7 @@
 
 - [ ] Aula 0.1 - Introdução – JavaScript Moderno
 
+---
 
 ### Módulo 01: 
 
@@ -22,6 +23,7 @@
 
 - [ ] Aula 1.4 – Criando o seu primeiro script
 
+---
 
 ### Módulo 02:
 
@@ -35,6 +37,7 @@
 
 - [ ] Aula 2.8 – Operadores (Parte 2)
 
+---
 
 ### Módulo 03:
 
@@ -44,6 +47,7 @@
 
 - [ ] Aula 3.10 – Eventos DOM
 
+---
 
 ### Módulo 04:
 
@@ -59,6 +63,7 @@
 
 - [ ] Exercícios JavaScript (Parte 3)
 
+---
 
 ### Módulo 05:
 
@@ -74,6 +79,7 @@
 
 - [ ] Exercícios JavaScript (Parte 6)
 
+---
 
 ### Módulo 06:
 
