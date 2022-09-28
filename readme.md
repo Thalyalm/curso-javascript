@@ -49,7 +49,6 @@ Projeto criado no curso de JavaScript no [Curso em Vídeo](https://www.cursoemvi
 
 - [ ] Aula 4.11 – Condições (Parte 1)
 - [ ] Aula 4.12 – Condições (Parte 2)
-
 - [ ] Exercícios JavaScript (Parte 1)
 - [ ] Exercícios JavaScript (Parte 2)
 - [ ] Exercícios JavaScript (Parte 3)
@@ -62,7 +61,6 @@ Projeto criado no curso de JavaScript no [Curso em Vídeo](https://www.cursoemvi
 
 - [ ] Aula 5.13 – Repetições (Parte 1)
 - [ ] Aula 5.14 – Repetições (Parte 2)
-
 - [ ] Exercícios JavaScript (Parte 4)
 - [ ] Exercícios JavaScript (Parte 5)
 - [ ] Exercícios JavaScript (Parte 6)
@@ -75,7 +73,6 @@ Projeto criado no curso de JavaScript no [Curso em Vídeo](https://www.cursoemvi
 
 - [ ] Aula 6.15 – Variáveis Compostas
 - [ ] Aula 6.16 – Funções
-
 - [ ] Exercícios JavaScript (Parte 7)
 - [ ] Exercícios JavaScript (Parte 8)
 - [ ] Aula 6.17 – Próximos Passos
