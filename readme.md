@@ -8,7 +8,7 @@ Projeto criado no curso de JavaScript no [Curso em Vídeo](https://www.cursoemvi
 
 #### Introdução ao Curso:
 
-- [ ] Aula 0.1 - Introdução – JavaScript Moderno
+- [ ] Aula 1.1 - Introdução – JavaScript Moderno
 
 ---
 
