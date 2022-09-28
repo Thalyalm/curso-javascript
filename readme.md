@@ -8,18 +8,18 @@ Projeto criado no curso de JavaScript no [Curso em Vídeo](https://www.cursoemvi
 
 #### Introdução ao Curso:
 
-- [ ] Aula 1.1 - Introdução – JavaScript Moderno
+- [ ] Aula 1.1 Introdução – JavaScript Moderno
 
 ---
 
-### Módulo 02: 
+### Módulo 01: 
 
 #### Conhecendo o JavaScript:
 
-- [ ] Aula 2.1 – O que o JavaScript é capaz de fazer?
+- [ ] Aula 1.2 – O que o JavaScript é capaz de fazer?
 - [ ] Aula 2.2 – Como chegamos até aqui?
-- [ ] Aula 2.3 – Dando os primeiros passos
-- [ ] Aula 2.4 – Criando o seu primeiro script
+- [ ] Aula 3.2 – Dando os primeiros passos
+- [ ] Aula 4.2 – Criando o seu primeiro script
 
 ---
 
@@ -27,10 +27,10 @@ Projeto criado no curso de JavaScript no [Curso em Vídeo](https://www.cursoemvi
 
 #### Comandos Básicos do JavaScript:
 
-- [ ] Aula 3.5 – Variáveis e Tipos Primitivos
-- [ ] Aula 3.6 – Tratamento de dados
-- [ ] Aula 3.7 – Operadores (Parte 1)
-- [ ] Aula 3.8 – Operadores (Parte 2)
+- [ ] Aula 1.3 – Variáveis e Tipos Primitivos
+- [ ] Aula 2.3 – Tratamento de dados
+- [ ] Aula 3.3 – Operadores (Parte 1)
+- [ ] Aula 4.3 – Operadores (Parte 2)
 
 ---
 
@@ -38,8 +38,8 @@ Projeto criado no curso de JavaScript no [Curso em Vídeo](https://www.cursoemvi
 
 #### Entendendo o DOM:
 
-- [ ] Aula 4.9 – Introdução ao DOM
-- [ ] Aula 4.10 – Eventos DOM
+- [ ] Aula 1.4 – Introdução ao DOM
+- [ ] Aula 2.4 – Eventos DOM
 
 ---
 
@@ -47,8 +47,8 @@ Projeto criado no curso de JavaScript no [Curso em Vídeo](https://www.cursoemvi
 
 #### Condições em JavaScript
 
-- [ ] Aula 5.11 – Condições (Parte 1)
-- [ ] Aula 5.12 – Condições (Parte 2)
+- [ ] Aula 1.5 – Condições (Parte 1)
+- [ ] Aula 2.5 – Condições (Parte 2)
 - [ ] Exercícios JavaScript (Parte 1)
 - [ ] Exercícios JavaScript (Parte 2)
 - [ ] Exercícios JavaScript (Parte 3)
@@ -59,8 +59,8 @@ Projeto criado no curso de JavaScript no [Curso em Vídeo](https://www.cursoemvi
 
 #### Repetições em JavaScript
 
-- [ ] Aula 6.13 – Repetições (Parte 1)
-- [ ] Aula 6.14 – Repetições (Parte 2)
+- [ ] Aula 1.6 – Repetições (Parte 1)
+- [ ] Aula 2.6 – Repetições (Parte 2)
 - [ ] Exercícios JavaScript (Parte 4)
 - [ ] Exercícios JavaScript (Parte 5)
 - [ ] Exercícios JavaScript (Parte 6)
@@ -71,10 +71,10 @@ Projeto criado no curso de JavaScript no [Curso em Vídeo](https://www.cursoemvi
 
 #### Avançando os estudos em JavaScript
 
-- [ ] Aula 7.15 – Variáveis Compostas
-- [ ] Aula 7.16 – Funções
+- [ ] Aula 1.7 – Variáveis Compostas
+- [ ] Aula 2.7 – Funções
 - [ ] Exercícios JavaScript (Parte 7)
 - [ ] Exercícios JavaScript (Parte 8)
-- [ ] Aula 7.17 – Próximos Passos
+- [ ] Aula 3.7 – Próximos Passos
 
 ---
