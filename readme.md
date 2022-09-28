@@ -7,7 +7,7 @@
 
 #### Introdução ao Curso:
 
-- [ ] Introdução – JavaScript Moderno
+- [ ] Aula 0.0 - Introdução – JavaScript Moderno
 
 
 ### Módulo 01: 
