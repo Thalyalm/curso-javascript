@@ -3,14 +3,14 @@
 >Projeto criado no curso de JavaScript no [Curso em Vídeo](https://www.cursoemvideo.com/) com [Gustavo Guanabara](https://github.com/gustavoguanabara).
 
 
-## Módulo 0: 
+### Módulo 0: 
 
 #### Introdução ao Curso:
 
 - [ ] Introdução – JavaScript Moderno
 
 
-## Módulo 1: 
+### Módulo 01: 
 
 #### Conhecendo o JavaScript:
 
@@ -23,7 +23,7 @@
 - [ ] Aula 1.4 – Criando o seu primeiro script
 
 
-## Módulo 2:
+### Módulo 02:
 
 #### Comandos Básicos do JavaScript:
 
@@ -36,7 +36,7 @@
 - [ ] Aula 2.8 – Operadores (Parte 2)
 
 
-## Módulo 3:
+### Módulo 03:
 
 #### Entendendo o DOM:
 
@@ -45,7 +45,7 @@
 - [ ] Aula 3.10 – Eventos DOM
 
 
-## Módulo 4:
+### Módulo 04:
 
 #### Condições em JavaScript
 
@@ -60,7 +60,7 @@
 - [ ] Exercícios JavaScript (Parte 3)
 
 
-## Módulo 5:
+### Módulo 05:
 
 #### Repetições em JavaScript
 
@@ -75,7 +75,7 @@
 - [ ] Exercícios JavaScript (Parte 6)
 
 
-## Módulo 6:
+### Módulo 06:
 
 #### Avançando os estudos em JavaScript
 
