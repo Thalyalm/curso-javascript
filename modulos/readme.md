@@ -4,7 +4,7 @@
 
 ---
 
-### [Introdução ao Curso](/modulos/introducao-ao-curso/readme.md)
+### :ballot_box_with_check: [Introdução ao Curso](/modulos/introducao-ao-curso/readme.md)
 
 ### [Módulo A](/modulos/modulo-a/readme.md)
 
