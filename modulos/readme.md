@@ -4,19 +4,19 @@
 
 ---
 
-### [Introdução ao Curso]()
+### [Introdução ao Curso](/modulos/introducao-ao-curso/readme.md)
 
-### [Módulo A]()
+### [Módulo A](/modulos/modulo-a/readme.md)
 
-### [Módulo B]()
+### [Módulo B](/modulos/modulo-b/readme.md)
 
-### [Módulo C]()
+### [Módulo C](/modulos/modulo-c/readme.md)
 
-### [Módulo D]()
+### [Módulo D](/modulos/modulo-d/readme.md)
 
-### [Módulo E]()
+### [Módulo E](/modulos/modulo-e/readme.md)
 
-### [Módulo F]()
+### [Módulo F](/modulos/modulo-f/readme.md)
 
 ---
 
