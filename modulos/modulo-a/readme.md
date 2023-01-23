@@ -6,9 +6,9 @@
 
 #### Conhecendo o JavaScript:
 
-- [ ] 1.a – O que o JavaScript é capaz de fazer?
+:ballot_box_with_check: 1.a – O que o JavaScript é capaz de fazer?
 
-- [ ] 2.a – Como chegamos até aqui?
+:ballot_box_with_check: 2.a – Como chegamos até aqui?
 
 - [ ] 3.a – Dando os primeiros passos
 
