@@ -8,11 +8,11 @@
 
 ---
 
-- [ ] Aula 1.7 – Variáveis Compostas
+- [ ] Aula 1.f – Variáveis Compostas
 
 ---
 
-- [ ] Aula 2.7 – Funções
+- [ ] Aula 2.f – Funções
 
 ---
 
@@ -24,7 +24,7 @@
 
 ---
 
-- [ ] Aula 3.7 – Próximos Passos
+- [ ] Aula 3.f – Próximos Passos
 
 ---
 

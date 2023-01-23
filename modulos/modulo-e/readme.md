@@ -8,11 +8,11 @@
 
 ---
 
-- [ ] Aula 1.6 – Repetições (Parte 1)
+- [ ] 1.e – Repetições (Parte 1)
 
 ---
 
-- [ ] Aula 2.6 – Repetições (Parte 2)
+- [ ] 2.e – Repetições (Parte 2)
 
 ---
 

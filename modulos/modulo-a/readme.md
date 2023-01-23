@@ -8,19 +8,19 @@
 
 ---
 
-- [ ] Aula 1.2 – O que o JavaScript é capaz de fazer?
+- [ ] 1.a – O que o JavaScript é capaz de fazer?
 
 ---
 
-- [ ] Aula 2.2 – Como chegamos até aqui?
+- [ ] 2.a – Como chegamos até aqui?
 
 ---
 
-- [ ] Aula 3.2 – Dando os primeiros passos
+- [ ] 3.a – Dando os primeiros passos
 
 ---
 
-- [ ] Aula 4.2 – Criando o seu primeiro script
+- [ ] 4.a – Criando o seu primeiro script
 
 ---
 

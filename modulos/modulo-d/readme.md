@@ -8,11 +8,11 @@
 
 ---
 
-- [ ] Aula 1.5 – Condições (Parte 1)
+- [ ] 1.d – Condições (Parte 1)
 
 ---
 
-- [ ] Aula 2.5 – Condições (Parte 2)
+- [ ] 2.d – Condições (Parte 2)
 
 ---
 

@@ -8,19 +8,19 @@
 
 ---
 
-- [ ] Aula 1.3 – Variáveis e Tipos Primitivos
+- [ ] 1.b – Variáveis e Tipos Primitivos
 
 ---
 
-- [ ] Aula 2.3 – Tratamento de dados
+- [ ] 2.b – Tratamento de dados
 
 ---
 
-- [ ] Aula 3.3 – Operadores (Parte 1)
+- [ ] 3.b – Operadores (Parte 1)
 
 ---
 
-- [ ] Aula 4.3 – Operadores (Parte 2)
+- [ ] 4.b – Operadores (Parte 2)
 
 ---
 

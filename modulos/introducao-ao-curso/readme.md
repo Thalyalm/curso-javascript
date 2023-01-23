@@ -6,7 +6,7 @@
 
 #### Introdução ao Curso:
 
-:ballot_box_with_check: Aula 1.1 Introdução – JavaScript Moderno
+:ballot_box_with_check: Introdução – JavaScript Moderno
 
 ---
 

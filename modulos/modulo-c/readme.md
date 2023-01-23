@@ -8,11 +8,11 @@
 
 ---
 
-- [ ] Aula 1.4 – Introdução ao DOM
+- [ ] 1.c – Introdução ao DOM
 
 ---
 
-- [ ] Aula 2.4 – Eventos DOM
+- [ ] 2.c – Eventos DOM
 
 ---
 
