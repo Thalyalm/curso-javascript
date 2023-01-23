@@ -4,8 +4,10 @@
 
 ---
 
-# Curso JavaScript
+#### Introdução ao Curso:
 
-Projeto criado no curso de JavaScript no [Curso em Vídeo](https://www.cursoemvideo.com/) com [Gustavo Guanabara](https://github.com/gustavoguanabara).
+- [ ] Aula 1.1 Introdução – JavaScript Moderno
 
 ---
+
+[Voltar](/modulos/readme.md)

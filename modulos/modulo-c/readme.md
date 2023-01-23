@@ -4,8 +4,16 @@
 
 ---
 
-# Curso JavaScript
-
-Projeto criado no curso de JavaScript no [Curso em Vídeo](https://www.cursoemvideo.com/) com [Gustavo Guanabara](https://github.com/gustavoguanabara).
+#### Entendendo o DOM:
 
 ---
+
+- [ ] Aula 1.4 – Introdução ao DOM
+
+---
+
+- [ ] Aula 2.4 – Eventos DOM
+
+---
+
+[Voltar](/modulos/readme.md)

@@ -4,8 +4,20 @@
 
 ---
 
-# Curso JavaScript
+### [Introdução ao Curso]()
 
-Projeto criado no curso de JavaScript no [Curso em Vídeo](https://www.cursoemvideo.com/) com [Gustavo Guanabara](https://github.com/gustavoguanabara).
+### [Módulo A]()
+
+### [Módulo B]()
+
+### [Módulo C]()
+
+### [Módulo D]()
+
+### [Módulo E]()
+
+### [Módulo F]()
 
 ---
+
+[Voltar](https://github.com/Thalyalm/curso-javascript)
