@@ -4,25 +4,15 @@
 
 ---
 
-#### Condições em JavaScript
-
----
+### Condições em JavaScript
 
 - [ ] 1.d – Condições (Parte 1)
 
----
-
 - [ ] 2.d – Condições (Parte 2)
-
----
 
 - [ ] Exercícios JavaScript (Parte 1)
 
----
-
 - [ ] Exercícios JavaScript (Parte 2)
-
----
 
 - [ ] Exercícios JavaScript (Parte 3)
 

@@ -4,25 +4,15 @@
 
 ---
 
-#### Repetições em JavaScript
-
----
+### Repetições em JavaScript
 
 - [ ] 1.e – Repetições (Parte 1)
 
----
-
 - [ ] 2.e – Repetições (Parte 2)
-
----
 
 - [ ] Exercícios JavaScript (Parte 4)
 
----
-
 - [ ] Exercícios JavaScript (Parte 5)
-
----
 
 - [ ] Exercícios JavaScript (Parte 6)
 

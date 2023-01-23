@@ -4,21 +4,13 @@
 
 ---
 
-#### Comandos Básicos do JavaScript:
-
----
+### Comandos Básicos do JavaScript:
 
 - [ ] 1.b – Variáveis e Tipos Primitivos
 
----
-
 - [ ] 2.b – Tratamento de dados
 
----
-
 - [ ] 3.b – Operadores (Parte 1)
-
----
 
 - [ ] 4.b – Operadores (Parte 2)
 

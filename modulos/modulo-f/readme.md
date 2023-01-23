@@ -4,25 +4,17 @@
 
 ---
 
-#### Avançando os estudos em JavaScript
+### Avançando os estudos em JavaScript
 
 ---
 
 - [ ] Aula 1.f – Variáveis Compostas
 
----
-
 - [ ] Aula 2.f – Funções
-
----
 
 - [ ] Exercícios JavaScript (Parte 7)
 
----
-
 - [ ] Exercícios JavaScript (Parte 8)
-
----
 
 - [ ] Aula 3.f – Próximos Passos
 

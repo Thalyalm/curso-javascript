@@ -4,13 +4,9 @@
 
 ---
 
-#### Entendendo o DOM:
-
----
+### Entendendo o DOM:
 
 - [ ] 1.c – Introdução ao DOM
-
----
 
 - [ ] 2.c – Eventos DOM
 
