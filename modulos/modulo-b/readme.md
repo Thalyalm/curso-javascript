@@ -4,7 +4,7 @@
 
 ---
 
-### Comandos Básicos do JavaScript:
+#### Comandos Básicos do JavaScript:
 
 - [ ] 1.b – Variáveis e Tipos Primitivos
 

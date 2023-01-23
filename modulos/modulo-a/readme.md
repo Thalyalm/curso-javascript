@@ -4,7 +4,7 @@
 
 ---
 
-### Conhecendo o JavaScript:
+#### Conhecendo o JavaScript:
 
 - [ ] 1.a – O que o JavaScript é capaz de fazer?
 
