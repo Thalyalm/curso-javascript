@@ -10,7 +10,7 @@
 
 :ballot_box_with_check: 2.a – Como chegamos até aqui?
 
-- [ ] 3.a – Dando os primeiros passos
+:ballot_box_with_check: 3.a – Dando os primeiros passos
 
 - [ ] 4.a – Criando o seu primeiro script
 
