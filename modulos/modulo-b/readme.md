@@ -6,7 +6,7 @@
 
 #### Comandos Básicos do JavaScript:
 
-- [ ] 1.b – Variáveis e Tipos Primitivos
+:ballot_box_with_check: 1.b – Variáveis e Tipos Primitivos
 
 - [ ] 2.b – Tratamento de dados
 
