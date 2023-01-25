@@ -4,7 +4,7 @@
 
 ---
 
-#### Repetições em JavaScript
+#### Repetições em JavaScript:
 
 - [ ] 1.e – Repetições (Parte 1)
 

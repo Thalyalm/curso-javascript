@@ -4,9 +4,7 @@
 
 ---
 
-#### Avançando os estudos em JavaScript
-
----
+#### Avançando os estudos em JavaScript:
 
 - [ ] Aula 1.f – Variáveis Compostas
 

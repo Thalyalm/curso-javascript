@@ -4,7 +4,7 @@
 
 ---
 
-#### Condições em JavaScript
+#### Condições em JavaScript:
 
 - [ ] 1.d – Condições (Parte 1)
 
