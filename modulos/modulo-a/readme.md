@@ -12,7 +12,7 @@
 
 :ballot_box_with_check: 3.a – Dando os primeiros passos
 
-- [ ] 4.a – Criando o seu primeiro script
+:ballot_box_with_check: 4.a – Criando o seu primeiro script
 
 ---
 
