@@ -8,7 +8,7 @@
 
 :ballot_box_with_check: 1.b – Variáveis e Tipos Primitivos
 
-- [ ] 2.b – Tratamento de dados
+:ballot_box_with_check: 2.b – Tratamento de dados
 
 - [ ] 3.b – Operadores (Parte 1)
 
