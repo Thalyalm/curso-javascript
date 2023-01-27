@@ -10,9 +10,9 @@
 
 :ballot_box_with_check: 2.b – Tratamento de dados
 
-- [ ] 3.b – Operadores (Parte 1)
+:ballot_box_with_check: 3.b – Operadores (Parte 1)
 
-- [ ] 4.b – Operadores (Parte 2)
+:ballot_box_with_check: 4.b – Operadores (Parte 2)
 
 ---
 

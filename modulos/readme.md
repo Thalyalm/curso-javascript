@@ -8,7 +8,7 @@
 
 ### :ballot_box_with_check: [Módulo A](/modulos/modulo-a/readme.md)
 
-### [Módulo B](/modulos/modulo-b/readme.md)
+### :ballot_box_with_check: [Módulo B](/modulos/modulo-b/readme.md)
 
 ### [Módulo C](/modulos/modulo-c/readme.md)
 
