@@ -6,7 +6,7 @@
 
 #### Entendendo o DOM:
 
-- [ ] 1.c – Introdução ao DOM
+:ballot_box_with_check: 1.c – Introdução ao DOM
 
 - [ ] 2.c – Eventos DOM
 
