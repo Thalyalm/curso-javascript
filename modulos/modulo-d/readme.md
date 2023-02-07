@@ -6,7 +6,7 @@
 
 #### Condições em JavaScript:
 
-- [ ] 1.d – Condições (Parte 1)
+:ballot_box_with_check: 1.d – Condições (Parte 1)
 
 - [ ] 2.d – Condições (Parte 2)
 
