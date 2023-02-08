@@ -3,13 +3,17 @@ function carregar() {
     var msg = window.document.getElementById('msg')
     var data = new Date()
     var hora = data.getHours()
-    var minuto = data.getMinutes()
-    msg.innerHTML = `${hora}:${minuto}`
+    var minutos = data.getMinutes()
+    horario.innerHTML = `${hora}:${minutos}`
+
     if (hora < 12) {
-        ('Bom dia!')
+        msg.innerHTML += ('Bom dia!')
+        document.body.style.background = 'yellow'
     } else if (hora < 18) {
-        ('Boa tarde!')
+        msg.innerHTML += ('Boa tarde!')
+        document.body.style.background = 'orange'
     } else {
-        ('Boa noite!')
+        msg.innerHTML += ('Boa noite!')
+        document.body.style.background = 'black'
     }
 }
