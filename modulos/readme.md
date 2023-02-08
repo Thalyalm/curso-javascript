@@ -1,6 +1,6 @@
 [Início](https://github.com/Thalyalm/curso-javascript) / 
 [Módulos](https://github.com/Thalyalm/curso-javascript/tree/master/modulos/readme.md) /
-[Certificados](https://github.com/Thalyalm/curso-javascript/tree/master/certificados)
+[Certificado](https://github.com/Thalyalm/curso-javascript/tree/master/certificado)
 
 ---
 
@@ -10,7 +10,7 @@
 
 ### :ballot_box_with_check: [Módulo B](/modulos/modulo-b/readme.md)
 
-### [Módulo C](/modulos/modulo-c/readme.md)
+### :ballot_box_with_check: [Módulo C](/modulos/modulo-c/readme.md)
 
 ### [Módulo D](/modulos/modulo-d/readme.md)
 

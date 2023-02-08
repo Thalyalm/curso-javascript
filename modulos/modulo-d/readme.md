@@ -1,14 +1,14 @@
 [Início](https://github.com/Thalyalm/curso-javascript) / 
 [Módulos](https://github.com/Thalyalm/curso-javascript/tree/master/modulos/readme.md) /
-[Certificados](https://github.com/Thalyalm/curso-javascript/tree/master/certificados)
+[Certificado](https://github.com/Thalyalm/curso-javascript/tree/master/certificado)
 
 ---
 
 #### Condições em JavaScript:
 
-- [ ] 1.d – Condições (Parte 1)
+:ballot_box_with_check: 1.d – Condições (Parte 1)
 
-- [ ] 2.d – Condições (Parte 2)
+:ballot_box_with_check: 2.d – Condições (Parte 2)
 
 - [ ] Exercícios JavaScript (Parte 1)
 
