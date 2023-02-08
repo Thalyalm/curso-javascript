@@ -10,11 +10,11 @@
 
 :ballot_box_with_check: 2.d – Condições (Parte 2)
 
-- [ ] Exercícios JavaScript (Parte 1)
+:ballot_box_with_check: Exercícios JavaScript (Parte 1)
 
-- [ ] Exercícios JavaScript (Parte 2)
+:ballot_box_with_check: Exercícios JavaScript (Parte 2)
 
-- [ ] Exercícios JavaScript (Parte 3)
+:ballot_box_with_check: Exercícios JavaScript (Parte 3)
 
 ---
 
