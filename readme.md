@@ -1,6 +1,6 @@
 [Início](https://github.com/Thalyalm/curso-javascript) / 
 [Módulos](https://github.com/Thalyalm/curso-javascript/tree/master/modulos/readme.md) /
-[Certificado](https://github.com/Thalyalm/curso-javascript/tree/master/certificados)
+[Certificado](https://github.com/Thalyalm/curso-javascript/tree/master/certificado)
 
 ---
 
