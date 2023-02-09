@@ -14,7 +14,7 @@
 
 ### :ballot_box_with_check: [Módulo D](/modulos/modulo-d/readme.md)
 
-### [Módulo E](/modulos/modulo-e/readme.md)
+### :ballot_box_with_check: [Módulo E](/modulos/modulo-e/readme.md)
 
 ### [Módulo F](/modulos/modulo-f/readme.md)
 

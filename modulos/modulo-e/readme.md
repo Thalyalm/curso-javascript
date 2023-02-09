@@ -8,13 +8,13 @@
 
 :ballot_box_with_check: 1.e – Repetições (Parte 1)
 
-- [ ] 2.e – Repetições (Parte 2)
+:ballot_box_with_check: 2.e – Repetições (Parte 2)
 
-- [ ] Exercícios JavaScript (Parte 4)
+:ballot_box_with_check: Exercícios JavaScript (Parte 4)
 
-- [ ] Exercícios JavaScript (Parte 5)
+:ballot_box_with_check: Exercícios JavaScript (Parte 5)
 
-- [ ] Exercícios JavaScript (Parte 6)
+:ballot_box_with_check: Exercícios JavaScript (Parte 6)
 
 ---
 
