@@ -6,7 +6,7 @@
 
 #### Avançando os estudos em JavaScript:
 
-- [ ] Aula 1.f – Variáveis Compostas
+:ballot_box_with_check: Aula 1.f – Variáveis Compostas
 
 - [ ] Aula 2.f – Funções
 
