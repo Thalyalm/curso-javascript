@@ -15,7 +15,7 @@
 
 :ballot_box_with_check: Exercícios JavaScript (Parte 8)
 
-- [ ] Aula 3.f – Próximos Passos
+:ballot_box_with_check: Aula 3.f – Próximos Passos
 
 ---
 
