@@ -9,7 +9,7 @@
 
 :ballot_box_with_check: Aula 1.f – Variáveis Compostas
 
-:ballot_box_with_check: 2.f – Funções
+:ballot_box_with_check: Aula 2.f – Funções
 
 :ballot_box_with_check: Exercícios JavaScript (Parte 7)
 
